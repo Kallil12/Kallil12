@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there
 
 My name is Kallil and I live in Brazil (haha), I'm working with Business Intelligence and Data Analysis. 
 
