@@ -27,18 +27,20 @@
 
 ## ⚡ Technologies I use
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+<div style="display: inline_block">
+<br />
+<hr />
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/atom/atom-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-                                                              
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+
 </div>
 
 
