@@ -1,9 +1,9 @@
-<div>
+<div style="display: inline_block">
 ### Hello there, I'm Kallil, welcome to my Github 🌱
 </div>
 
 <br/>
-<div>
+<div style="display: inline_block">
 ### About Me 🚀
 <br/>
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
