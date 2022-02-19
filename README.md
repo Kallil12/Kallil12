@@ -5,7 +5,7 @@
 
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
 :gear: My experiences include using Pentaho and Qlikview to make data extraction while applying R and Python to analise data. Also, I'm always trying to create meaningful data visualization. </br> </br>
-💬 Feel welcome to contact me (clicking below) if you need any help or want to discuss about data science or cars! </br></br>
+💬 Feel welcome to contact me (clicking the icons below) if you need any help or want to discuss about data science or cars! </br></br>
 
 <a href="https://www.linkedin.com/in/kallil-b-379125150/">
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
