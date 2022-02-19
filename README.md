@@ -1,15 +1,12 @@
-<div style="display: inline_block">
 ### Hello there, I'm Kallil, welcome to my Github 🌱
-</div>
 
 <br/>
-<div style="display: inline_block">
+
 ### About Me 🚀
 <br/>
+
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
 💬 Feel welcome to contact me if you need any help or want to discuss about data science (cars too)! </br></br>
-
- <b><i> I truly believe that data is extremely important to make the right decision.
 
 <a href="https://www.linkedin.com/in/kallil-b-379125150/">
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -17,7 +14,6 @@
 <a href="mailto:kallilaraujo@gmail.com">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</div>
 
 <br/>
 <hr />
