@@ -1,20 +1,18 @@
 ### Hello there, I'm Kallil, welcome to my Github 🌱
 
 <hr />
-<a href="https://www.linkedin.com/in/kallil-b-379125150/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:kallilaraujo@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br/>
-
 ### About Me 🚀
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
 💬 Feel welcome to contact me if you need any help or want to discuss about data science (cars too)! </br></br>
 
  <b><i> I truly believe that data is extremely important to make the right decision.
+
+<a href="https://www.linkedin.com/in/kallil-b-379125150/">
+ <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:kallilaraujo@gmail.com">
+ <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br/>
 <hr />
@@ -29,7 +27,6 @@
 
 <div style="display: inline_block">
 <br />
-<hr />
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/atom/atom-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/Kallil12/devicon/master/icons/git/git-original.svg">
