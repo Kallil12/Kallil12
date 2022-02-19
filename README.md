@@ -2,6 +2,7 @@
 
 <hr />
 ### About Me 🚀
+<br/>
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
 💬 Feel welcome to contact me if you need any help or want to discuss about data science (cars too)! </br></br>
 
