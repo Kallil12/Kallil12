@@ -1,12 +1,11 @@
 ### Hello there, I'm Kallil, welcome to my Github 🌱
 
-<br/>
-
-### About Me 🚀
+<div style="display: inline_block">
+## About Me 🚀
 <br/>
 
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
-💬 Feel welcome to contact me if you need any help or want to discuss about data science (cars too)! </br></br>
+💬 Feel welcome to contact me (clicking below) if you need any help or want to discuss about data science or cars! </br></br>
 
 <a href="https://www.linkedin.com/in/kallil-b-379125150/">
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
