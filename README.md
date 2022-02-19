@@ -1,6 +1,9 @@
+<div>
 ### Hello there, I'm Kallil, welcome to my Github 🌱
+</div>
 
-<hr />
+<br/>
+<div>
 ### About Me 🚀
 <br/>
 💻 I’m a **Business Intelligence Analyst** with a bachelor's degree in Computer Engineering and Postgraduated in Information Technology. </br> </br>
@@ -14,6 +17,7 @@
 <a href="mailto:kallilaraujo@gmail.com">
  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div>
 
 <br/>
 <hr />
