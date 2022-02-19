@@ -1,6 +1,5 @@
 ### Hello there, I'm Kallil, welcome to my Github 🌱
 
-<div style="display: inline_block">
 ## About Me 🚀
 <br/>
 
